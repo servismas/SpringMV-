@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Feb 13 18:49:09 EET 2020
+org.eclipse.jst.jee.server\:/binary\:F\:\\Work\\Programming\\Lessons\\JAVA\\Lesson\ 3\ Test\\SpringMVC\\WebContent\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\Work\\Programming\\Lessons\\JAVA\\Lesson\ 3\ Test\\SpringMVC\\WebContent\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE.jar
